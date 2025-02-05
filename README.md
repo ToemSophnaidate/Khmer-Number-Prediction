@@ -1,0 +1,3 @@
+- Open terminal 
+- Type python.py
+- Click on the url, then it wil work
